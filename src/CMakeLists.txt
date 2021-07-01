@@ -1,0 +1,5 @@
+add_subdirectory(client)
+add_subdirectory(server_service)
+add_subdirectory(server_loginout)
+add_subdirectory(proxy)
+add_subdirectory(log)
