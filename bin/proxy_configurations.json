@@ -1,0 +1,12 @@
+{
+    "server_port": 20000,
+    "client_port": 10000,
+    "process_number": 2,
+    "check_params": {
+        "active": 0,
+        "passive": 1,
+        "interval": 5,
+        "maxfails": 2,
+        "type": "tcp"
+    }
+}
